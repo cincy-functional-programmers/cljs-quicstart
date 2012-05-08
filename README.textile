@@ -2,7 +2,7 @@ h1. CincyFP CLJS Quickstart
 
 h2. Seed Project for Clojure/Clojurescript Web Application
 
-Here is what you will need to compile this applicaiton
+Here is what you will need to run/build this applicaiton
 # "lieningen":https://github.com/technomancy/leiningen
 # "lein-cljsbuild":https://github.com/emezeske/lein-cljsbuild
 
